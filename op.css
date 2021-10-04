@@ -1,0 +1,205 @@
+body {
+background: #f3f2f3;
+color: #000000;
+font-family: Trebuchet MS, Arial, Times New Roman;
+font-size: 12px;
+
+}
+
+
+#header {
+     background-image: url(map.jpg);
+      background-repeat: no-repeat;
+      background-size: 930px 368px;
+      /*background: black;*/
+      height: 177px;
+      img: url(сайт.jpg);
+      width: 900px;
+      height: 230px;
+}
+#bg{
+      background-image: url(map.jpg);
+}
+
+.text{
+      padding-left: 208px;
+}
+#panel{
+border:30px outset red;
+
+
+}
+#back{
+      color: grey;
+
+}
+
+.ayak{
+      color: #ffc107;
+      font-size:33px;
+      font-family: Bell MT;
+      text-align: center;
+}
+.lor{
+    color: #BA55D3;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+}
+
+#navigation {
+      background: #a2a2a2;
+      width: 900px;
+      height: 20px;
+      }
+      #menu {
+      background: #333333;
+      float: left;
+      width: 200px;
+      height: 624px;
+      }
+      
+.a_text{
+      text-decoration: none;
+}
+
+#content {
+      background-image:url(https://genshin-info.ru/local/templates/genshin/images/bg_xs.jpg) ;
+      width: 900px;
+      height: 2161px;
+      }
+
+.tabl{
+      border: solid 3px;
+    margin-right: 5px;
+}
+   
+#footer {
+      background: #838283;
+      height: 80px;
+      width: 900px;
+      }
+.colon {
+      white-space: nowrap;
+      margin-bottom: 5px;
+}
+.colom {
+    white-space: normal;
+    display: inline-block;
+    border-width: 34%;
+    border-style: solid;
+    border-color: yellow;
+    width: 292px;
+    height: 705px;
+    vertical-align: top;
+    background: white;
+}
+.colons {
+      margin-right: 4%;
+}
+.off {
+      color: #9932CC;
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.atack {
+      color:#black ;
+      font-size:16px ;
+      font-weight: 500;
+      margin: 0;
+      text-align: center;
+}
+/*.icon{
+      background-image:url(icon.png);
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      display: block; margin: 0 auto;
+}*/
+.ayaka{ 
+      background-image: url(icon.png);
+      width: 100px;
+      height: 100px;
+      background-repeat:no-repeat ;
+
+}
+.texts{
+      text-align: left;
+      font-size: 14px;
+      color: #00008B;
+      text-align: center;
+    padding: 10px;
+    width: 250px;
+    margin: 0;
+}
+.icons1{
+      background-image: url(art4.png);
+      text-align: center;
+      display: block; margin: 0 auto;
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: 100px 100px;
+
+}
+.icons2{
+      background-image: url(art5.png);
+      text-align: center;
+      display: block; margin: 0 auto;
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: 100px 100px;
+
+}
+.icons3{
+      background-image: url(art6.png);
+      text-align: center;
+      display: block; margin: 0 auto;
+      width: 100px;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: 100px 100px;
+
+}
+.discr{
+    padding-left: 180px;
+}
+
+.colo{
+      justify-content: center;
+      display: flex;
+    white-space: normal;
+    border-style: solid;
+    border-color: yellow;
+    width: 895px;
+    vertical-align: top;
+    background: rgba(255,255,255,.80);
+}
+
+.colom1 {
+    white-space: normal;
+    display: inline-block;
+    border-width: 34%;
+    border-style: solid;
+    border-color: yellow;
+    width: 895px;
+    height: 345px;
+    vertical-align: top;
+      background: rgba(255,255,255,.80);
+
+}
+.colom2{
+      background: rgba(255,255,255,.80);
+    box-shadow: 0 1px 2px #666;
+    padding: 1rem;
+    border-radius: .25rem;
+    margin-bottom: 1rem;
+
+}
+.words{
+      text-align: center;
+      font-family: Lucida Console;
+}
