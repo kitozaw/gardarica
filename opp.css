@@ -1,12 +1,12 @@
 body {
       background: #f3f2f3;
       color: #000000;
-      font-family: Trebuchet MS, Arial, Times New Roman;
       font-size: 12px;
-      background-image:url(https://genshin-info.ru/local/templates/genshin/images/bg_xs.jpg) ;
+      background-image:url(bgg.jpg) ;
       background-repeat: no-repeat;
       background-size: cover;
       background-attachment: fixed;
+      font-family: Trebuchet MS, Arial, Times New Roman;
       
 }
 
@@ -27,7 +27,7 @@ body {
 #wrapper {
       margin: 0 auto;
       width: 1036px;
-      height: 1200px;
+      height: 1280px;
       background: rgba(255, 255, 255, 0.80);
       box-shadow: 0 1px 2px #666;
 }
@@ -61,7 +61,8 @@ body {
 .charper{
       display: flex;
       padding-top: 40px;
-}
+      justify-content: center;
+    }
 
 .p_cha{
      margin: 0;
