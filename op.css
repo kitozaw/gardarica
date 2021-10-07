@@ -77,10 +77,49 @@ border:30px outset red;
       width: 900px;
       }
 
+
+.H1_text{
+  display: flex;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+.s{
+  border: 1px solid rgba(0,0,0,.1);
+  line-height: 1.2;
+}
+
+.imgg{
+  width: 66px;
+  height: 66px;
+}
+
+.row{
+  display: flex;
+}
+
+.table_tr{
+  border: 1px solid rgba(0,0,0,.1);
+  line-height: 1.2;
+}
+
+  .th{
+    border: 1px solid rgba(0,0,0,.1);
+    line-height: 1.2;
+  }
+
+.td{
+    border: 1px solid rgba(0,0,0,.1);
+    line-height: 1.2;
+}
+
 .DPS{
     width: 900px;
     background: rgba(255, 255, 255, 0.80);
     box-shadow: 0 1px 2px #666;
+    height: 10000px
 }
 
 .tabl{
